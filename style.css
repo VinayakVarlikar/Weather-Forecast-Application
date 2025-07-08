@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Quicksand:wght@600&family=Sora:wght@100..800&display=swap');
+
+* {
+    font-family: "Afacad Flux", serif;
+    font-weight: 500;
+}
+
+.error{
+    display: none;
+}
+#weather{
+    display: none;
+}
